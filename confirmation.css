@@ -1,4 +1,4 @@
-    body {
+body {
       text-align: center;
       background: #600;
       background-size: cover;
@@ -9,15 +9,6 @@
     p {
       font-size: 30px;
     }
-    img {
-    	border-radius: 10px;
-    }
-    input {
-      border: 0;
-      padding: 10px;
-      font-size: 18px;
-    }
-    input[type="submit"] {
-      background: red;
-      color: white;
+     img {
+      border-radius: 10px;
     }
